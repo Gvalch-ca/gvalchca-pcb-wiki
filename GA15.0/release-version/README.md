@@ -14,6 +14,8 @@ List of main features:
     - huge layout support, but without too many options, so PCB isnt the mess of holes
     - PCB-mount Cherry stabilizers support for all keys produced by SP (DCS and DSA)
     - Next-Gen routing and schematic standards. Beautiful look
+* Price: 40$
+* Availablility: regular groupbuys
 
 #### Layouts pic
 ![Layouts pic](https://i.imgur.com/WSl9wWO.png)
