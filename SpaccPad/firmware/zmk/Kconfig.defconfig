@@ -1,0 +1,6 @@
+if SpaccPadBT
+
+config ZMK_KEYBOARD_NAME
+    default "SpaccPadBT"
+
+endif

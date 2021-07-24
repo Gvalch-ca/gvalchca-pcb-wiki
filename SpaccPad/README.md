@@ -18,7 +18,7 @@ _____
 
 ## Firmware
 
-SpaccPad is QMK, VIA, and Vial compatible. Source files, as well as ready-to-use .hex files could be found in `firmware` folder above.
+SpaccPad is QMK, VIA, and Vial compatible. ZMK compatibility is in work (firmware finished but untested). Source files, as well as ready-to-use .hex files could be found in `firmware` folder above.
 
 Personally I recommend you to use Vial (`gvalchca_spaccpad_vial.hex`). This allows for rotary encoders configuration without reflashing.
 
@@ -27,6 +27,10 @@ If you want to use VIA instead, follow this guide.
 2. Download `spaccpad.json`
 3. Open VIA, go to DESIGN tab, and upload `spaccpad.json` there
 4. Now your SpaccPad is fully configurable until you close VIA app
+
+If you want to use ZMK (with your proper bluetooth controller like nice!nano or nrfMicro), please refer to ZMK documentation and `zmk-firmware` folder.
+All credits for creating ZMK compatible firmware go to [NeonKnight](https://github.com/Davines123).
+His repo with SpaccPad ZMK firmware is available [here](https://github.com/Davines123/SpaccPadBT).
 
 _____
 
