@@ -1,0 +1,2 @@
+# KiCAD files
+This folder is dedicated for some kicad files (mainly symbol and footprint libraries) that I want to share. It will be deleted later when I will publish my kicad lib submodule, analogical to ai03's.
