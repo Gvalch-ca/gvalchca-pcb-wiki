@@ -1,4 +1,4 @@
-# Useful-staff
+# Useful-stuff
 
 This folder contains some useful files for your project.
 
